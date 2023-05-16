@@ -1,7 +1,7 @@
 # Pexels Photos Extension
 Search and add [Pexels](https://pexels.com) photos to your Cosmic Bucket.
 
-![Pexels Photos]("https://github.com/kemiljk/pexels-extension/assets/26257029/dfb6fa02-d970-4d90-ae49-c6dbc814e912?w=2000&auto=format")
+![Pexels Photos]("https://imgix.cosmicjs.com/c6611830-f401-11ed-985a-3383d9405b5e-Screenshot---DuckDuckGo---Cosmic---001088.png?w=2000&auto=format")
 
 ## Installation
 [Go to this extension](https://www.cosmicjs.com/marketplace/extensions/pexels) and click "Install Extension" to easily add Pexels photos to your Cosmic Bucket.
